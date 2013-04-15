@@ -1,18 +1,18 @@
 (function($){
 
-  var TumblrRedirect = function(){
-    this.tumblrUrl = "http://www.tumblr.com/";
+  var FacebookRedirect = function(){
+    this.facebookUrl = "http://www.facebook.com/";
   }
 
 
-  TumblrRedirect.prototype.redirect = function(){
-    window.location.replace(this.tumblrUrl);
+  FacebookRedirect.prototype.redirect = function(){
+    window.location.replace(this.facebookUrl);
   }
 
 
   $(document).ready(function(){
-    var tRedirect = new TumblrRedirect();
-    tRedirect.redirect();
+    var fRedirect = new FacebookRedirect();
+    fRedirect.redirect();
   });
 
 })(jQuery);

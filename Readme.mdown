@@ -1,7 +1,7 @@
-Provide a shortcut to tumblr
+Provide a shortcut to Facebook
 ======================================
 
-Shortcut to tumblr, since I like a shortcut on my new Tab page.
+Shortcut to Facebook, since I like a shortcut on my new Tab page.
 
 Install from the Chrome Web Store
 ---------------------------------
@@ -11,9 +11,9 @@ Install from the Chrome Web Store
 Install from the Git
 --------------------
 
-  1. Enable Developermode in the Extension setting
+  1. Enable Developer mode in the Extension setting
   2. Load this folder as an unpacked extension.
 
-Icon by [Antrepo](http://www.iconarchive.com/show/container-4-cargo-vans-icons-by-antrepo/Tumblr-Shipping-Box-icon.html)
+Icon by [Dan Leech](http://www.iconarchive.com/show/simple-icons-by-danleech/facebook-icon.html)
 
-tumblr copyright [tumblr.com](http://tumblr.com)
+facebook copyright [facebook.com](http://facebook.com)

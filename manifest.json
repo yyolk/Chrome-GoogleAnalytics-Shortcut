@@ -1,7 +1,7 @@
 {
-  "name": "tumblr.",
-  "version": "0.0.2",
-  "description": "Provide a shortcut to tumblr",
+  "name": "Facebook",
+  "version": "0.0.1",
+  "description": "Provide a shortcut to Facebook",
   "options_page": "options.html",
   "app": {
     "launch": {
