@@ -1,8 +1,7 @@
 {
-  "name": "Facebook",
+  "name": "Google Analytics",
   "version": "0.0.1",
-  "description": "Provide a shortcut to Facebook",
-  "options_page": "options.html",
+  "description": "Provide a shortcut to Google Analytics",
   "app": {
     "launch": {
       "local_path": "index.html"

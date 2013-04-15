@@ -1,12 +1,12 @@
-Provide a shortcut to Facebook
+Provide a shortcut to Google Analytics
 ======================================
 
-Shortcut to Facebook, since I like a shortcut on my new Tab page.
+Shortcut to Google Analytics, since I like a shortcut on my new Tab page.
 
-Install from the Chrome Web Store
+Install from the http://google.com) not available yet
 ---------------------------------
 
-[Just go here](https://chrome.google.com/webstore/detail/facebook/elmcfkhpnffadajandkmfmkcljhbgffk)
+[Just go here](http://google.com) not available yet
 
 Install from the Git
 --------------------
@@ -14,6 +14,6 @@ Install from the Git
   1. Enable Developer mode in the Extension setting
   2. Load this folder as an unpacked extension.
 
-Icon by [Dan Leech](http://www.iconarchive.com/show/simple-icons-by-danleech/facebook-icon.html)
+Icon by [Marcus Roberto](http://www.iconarchive.com/show/google-play-icons-by-marcus-roberto/Google-Analytics-icon.html)
 
-facebook copyright [facebook.com](http://facebook.com)
+Google Analytics copyright [Google](http://google.com)

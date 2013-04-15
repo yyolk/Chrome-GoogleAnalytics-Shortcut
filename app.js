@@ -1,18 +1,18 @@
 (function($){
 
-  var FacebookRedirect = function(){
-    this.facebookUrl = "http://www.facebook.com/";
+  var GoogleAnalyticsRedirect = function(){
+    this.googleAnalyticsUrl = "http://www.google.com/analytics";
   }
 
 
-  FacebookRedirect.prototype.redirect = function(){
-    window.location.replace(this.facebookUrl);
+  GoogleAnalyticsRedirect.prototype.redirect = function(){
+    window.location.replace(this.googleAnalyticsUrl);
   }
 
 
   $(document).ready(function(){
-    var fRedirect = new FacebookRedirect();
-    fRedirect.redirect();
+    var gaRedirect = new GoogleAnalyticsRedirect();
+    gaRedirect.redirect();
   });
 
 })(jQuery);
